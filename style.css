@@ -15,6 +15,10 @@ body {
   margin: 0;
 }
 
+h1 {
+  text-align: center;
+}
+
 .container {
   display: flex;
   width: 90vw;

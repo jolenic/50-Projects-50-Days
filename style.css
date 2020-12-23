@@ -15,10 +15,6 @@ body {
   margin: 0;
 }
 
-h1 {
-  text-align: center;
-}
-
 .container {
   display: flex;
   width: 90vw;
@@ -64,5 +60,10 @@ h1 {
   .panel:nth-of-type(4),
   .panel:nth-of-type(5) {
     display: none;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: medium;
   }
 }

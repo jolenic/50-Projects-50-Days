@@ -49,3 +49,7 @@ a {
 .box h2 {
   font-size: 42px;
 }
+
+.box:active {
+  transform: scale(0.98);
+}
